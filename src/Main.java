@@ -1,4 +1,4 @@
-import Tasks.HWTasks;
+import Lesson1.HWTasks;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Tasks;
+package Lesson1;
 
 public  class HWTasks {
 
