@@ -1,6 +1,6 @@
 package Lesson1;
 
-public  class HWTasks {
+public  class FirstHW {
 
     public static void printThreeWords() {
         System.out.println("Orange\n" +
