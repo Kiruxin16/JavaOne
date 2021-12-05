@@ -5,8 +5,8 @@ public class Employee {
     private String position;
     private String eMail;
     private String phoneNum;
-    int salary;
-    int age;
+    private int salary;
+    private int age;
 
     public Employee(String fio, String position,String eMail, String phoneNum, int salary, int age ){
         this.fio=fio;
